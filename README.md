@@ -1,1 +1,14 @@
-# simple-interest-calculator
+# Simple Interest Calculator
+
+A simple shell script calculator that computes simple interest given principal, annual rate of interest, and time period in years.
+
+## Formula
+Simple Interest = (p * t * r) / 100
+
+## Input
+- `p`: Principal amount
+- `t`: Time period in years
+- `r`: Annual rate of interest
+
+## Output
+- Simple Interest = `p * t * r`
